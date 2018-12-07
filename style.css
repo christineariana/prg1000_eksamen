@@ -1,0 +1,48 @@
+    /* BAKGRUNNSFARGE INPUTFELT */
+
+    input[type=text] {
+                    background-color: white;
+                }
+
+    input[type=text]:focus {
+                    background-color: #F0F8FF;
+                }
+    input[type=text]:hover {
+                    background-color: #F0F8FF;
+                }
+
+
+
+    .tooltip{
+    
+    color:white;
+    background-color: grey;
+    width: 180px;
+    height: 20px;
+    padding:3px;
+    border-color: black;
+    font-size:0.7em;
+    text-align: center;
+    vertical-align: center;
+    letter-spacing: -0.2px;
+    line-height:20px;
+    border-radius: 5%;
+}
+
+    td          {
+    
+                vertical-align: top;
+                }
+
+    input {
+    
+    width: 180px;
+        
+}
+
+.ajax {
+    
+    font-size: 0.8em;
+    color:blue;
+    font-style: bold;
+}
